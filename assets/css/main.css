@@ -32,6 +32,11 @@ main a:hover {
 
 main .logo {
   margin-bottom: 2em;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 main .logo img {
@@ -45,6 +50,18 @@ main h2 {
 
 main p {
   margin: 1em 0;
+}
+
+main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+main li::before {
+  content: "•";
+  color: rgb(49, 59, 64);
+  padding: 0 4px 0 16px;
 }
 
 footer {
@@ -63,8 +80,47 @@ footer {
   margin: 0 auto;
 }
 
+.dark-mode {
+  display: none;
+}
+
 @media screen and (max-width: 580px) {
   body {
     font-size: 0.9em;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: rgb(25, 27, 31);
+  }
+
+  main h2,
+  main a {
+    color: rgb(255, 255, 255);
+  }
+
+  main p {
+    color: rgba(255, 255, 255, 0.75);
+  }
+
+  main a {
+    border-bottom: solid 1px rgb(255, 255, 255);
+  }
+
+  main li::before {
+    color: rgb(115, 138, 148);
+  }
+
+  footer {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .light-mode {
+    display: none;
+  }
+
+  .dark-mode {
+    display: inline;
   }
 }

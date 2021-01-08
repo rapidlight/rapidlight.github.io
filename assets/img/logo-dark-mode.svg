@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="logo-dark-mode.svg"
+   id="svg1626"
+   viewBox="0 0 145 125"
+   version="1.1"
+   data-name="Camada 1"
+   height="125"
+   width="145">
+  <sodipodi:namedview
+     inkscape:current-layer="svg1626"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="62.5"
+     inkscape:cx="4.0257353"
+     inkscape:zoom="2.176"
+     showgrid="false"
+     id="namedview1628"
+     inkscape:window-height="654"
+     inkscape:window-width="1211"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata1612">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1616">
+    <style
+       id="style1614">.cls-1{fill:#26241e;}.cls-2{fill:#0383c6;}.cls-3{fill:#106ea2;}</style>
+  </defs>
+  <path
+     style="fill:#ffffff"
+     id="path1618"
+     stroke-width=".98579"
+     d="m145 41.683v41.604l-72.5 41.713-72.5-41.713v-41.604l72.5 41.752z"
+     class="cls-1" />
+  <path
+     id="path1620"
+     stroke-width=".98579"
+     d="m0 83.337v-41.604l72.5-41.732 72.5 41.732v41.604l-72.5-41.752z"
+     class="cls-2" />
+  <polygon
+     style="fill:#80cffd;fill-opacity:1"
+     id="polygon1622"
+     points="0.04 84.65 36.63 63.51 0.04 42.37 0 42.4 0 84.63"
+     transform="scale(.98733 .98425)"
+     class="cls-3" />
+  <polygon
+     style="fill:#80cffd;fill-opacity:1"
+     id="polygon1624"
+     points="146.82 42.37 110.23 63.51 146.82 84.65 146.86 84.63 146.86 42.4"
+     transform="scale(.98733 .98425)"
+     class="cls-3" />
+</svg>
